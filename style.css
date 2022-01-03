@@ -1,0 +1,40 @@
+*{
+    margin: 5px;
+    padding: 0px;
+}
+h1{
+    color: red;
+}
+.blog{
+    background-color: skyblue;
+    padding: 20px 10px 50px;
+    border: 30px solid black;
+    border-radius: 20px;
+    width: 50%;
+    margin: 40px auto;
+}
+.blog1{
+    background-color: rgb(214, 255, 64);
+    padding: 20px 10px 50px;
+    border: 30px solid black;
+    border-radius: 20px;
+    width: 50%;
+    margin: 40px auto;
+}
+.blog2{
+    background-color: rgb(212, 135, 235);
+    padding: 20px 10px 50px;
+    border: 30px solid black;
+    border-radius: 20px;
+    width: 50%;
+    margin: 40px auto;
+}
+small{
+    color: black;
+}
+.jhankar{
+    color: green;
+}
+.block-element{
+    display: inline;
+}
