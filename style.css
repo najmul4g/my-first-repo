@@ -38,3 +38,10 @@ small{
 .block-element{
     display: inline;
 }
+button{
+    padding: 10px 20px;
+    background-color: black;
+    font-size: 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
