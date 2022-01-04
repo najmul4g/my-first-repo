@@ -40,6 +40,7 @@ small{
 }
 button{
     padding: 10px 20px;
+    color: #fff;
     background-color: black;
     font-size: 32px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
